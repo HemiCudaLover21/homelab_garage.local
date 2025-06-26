@@ -1,18 +1,17 @@
-# homelab_garage.local
-Information about my Networking homelab with useful notes detailed technology information
+# my homelab garage.local
+Information about my networking homelab with useful notes detailed technology information
 <H3>Archetecture</H3>
-<a href="https://github.com/HemiCudaLover21/homelab_garage.local/blob/main/HOMELAB1.0.png"></a>
-Software network 
+<img src="https://github.com/HemiCudaLover21/homelab_garage.local/blob/main/HOMELAB1.0.png">
 <H4>systems</H4>
 <H4>TODO</H4>
 Switch Authentication through radius server with AD
 Install Samba on toolbooth.garage.local for second DC for HA and redundancy
 use ansible to automatically wr net cisco switches
 <H4>tollbooth.garage.local</H4>
-<a href="https://github.com/HemiCudaLover21/homelab_garage.local/blob/main/Screenshot_20250626_172550.png"></a>
+<img src="https://github.com/HemiCudaLover21/homelab_garage.local/blob/main/Screenshot_20250626_172550.png">
 TFTP for switch configs
 <H4>gamma2.garage.local</H4>
-<a href="https://github.com/HemiCudaLover21/homelab_garage.local/blob/main/Screenshot_20250626_172458.png"></a>
+<img src="https://github.com/HemiCudaLover21/homelab_garage.local/blob/main/Screenshot_20250626_172458.png">
 Authoritative DNS for network
 Authoritative DHCP for network
 Primary Domain Controller
